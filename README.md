@@ -18,7 +18,7 @@
 
 | 文件 | 说明 |
 | --- | --- |
-| [`wol-android-1.0.0-debug.apk`](https://github.com/bugggboy/wol-android/releases/latest) | 8.3 MB，debug 签名，可直接侧载 |
+| [`wol-android-1.0.0-debug.apk`](https://github.com/bugggboy/wol-android/releases/latest) | 8.4 MB，debug 签名，可直接侧载 |
 
 - 包名 `com.wolwake.app`，版本 1.0（versionCode 1），Android 7.0+（minSdk 24 / targetSdk 34）
 - 安装：手机允许「安装未知来源应用」→ 拷入 APK 点击安装
